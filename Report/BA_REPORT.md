@@ -141,11 +141,6 @@ LAG()
 #### EXCEL DASHBOARD
 
 
-## Dashboard Preview
-
-![Dashboard](Screenshots/Dashboard.png)
-
-
 Dashboard Features
 
 
